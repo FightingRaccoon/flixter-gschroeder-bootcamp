@@ -110,6 +110,12 @@
 .lesson li p {
   margin: 0;
 }
+.social-button {
+  margin: 4px;
+}
+.social a:hover {
+  text-decoration: none;
+}
 
 h1, h2, h3, h4, h5, h6, .navbar {
   margin: 0;
@@ -152,6 +158,7 @@ ul .header .fa {
   font-family: "Helvetica Neue", Helvetica;
   padding: 10px 0px;
   margin-top: 30px;
+  font-weight: 100;
 }
 #footer a {
 color: white;
